@@ -1,4 +1,4 @@
-package japbook.japshop;
+package jpabook.jpashop;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
